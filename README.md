@@ -1,4 +1,4 @@
-## Welcome to GitHub Games
+git reset hard## Welcome to GitHub Games
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
@@ -10,3 +10,5 @@ This fun open source game was cloned from: https://github.com/jakesgordon/javasc
 Para que apruebe Jesus
 Cambi actualizado
 Otro Cambio en mi branch
+GIT 
+Gut 8-5-2024
